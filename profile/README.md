@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arhitekton
+# Arhitechton
 
 **Building open-source tools for developers**
 
